@@ -16,5 +16,5 @@ Module.exports
 Em vários arquivos há a definição module.exports, esse comando define o que será retornado quando um outro arquivo importá-lo.
 
 Links:
-- Curso: https://mlab.com/databases/goweek-backend-roger#users
+- Curso: https://rocketseat.com.br/goweek-4#day-05
 - mLab: https://mlab.com/login/
