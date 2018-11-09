@@ -10,7 +10,8 @@ mongoose.connect(
     }
 );
 
-app.use(require('./routes'));
+app.use(express.json()); // Indica que será usado JSON para todas as rotas
+app.use(require('./routes')); // Importa o arquivo de rotas
 
 app.listen(3000, () => {
     console.log('Server Started on port 3000');
