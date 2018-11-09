@@ -14,3 +14,7 @@ Hospedado em MLab, disponibiliza 500mb gratuíto. Criação muito rápida e intu
 
 Module.exports
 Em vários arquivos há a definição module.exports, esse comando define o que será retornado quando um outro arquivo importá-lo.
+
+Links:
+- Curso: https://mlab.com/databases/goweek-backend-roger#users
+- mLab: https://mlab.com/login/
