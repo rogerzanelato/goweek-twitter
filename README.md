@@ -1,5 +1,6 @@
 Express
 Biblioteca para facilitar a criação de rotas.
+- express.json(): Indica que será usado JSON para todas as rotas
 
 Mongoose
 ORM para o MongoDB.
