@@ -10,6 +10,8 @@ module.exports = {
     async store(request, response) {
         const tweet = await Tweet.create(request.body);
 
+        request.io.emit('tweet', tweet);
+
         return response.json(tweet);
     }
 };
