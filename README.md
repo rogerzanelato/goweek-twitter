@@ -15,6 +15,10 @@ Hospedado em MLab, disponibiliza 500mb gratuíto. Criação muito rápida e intu
 Module.exports
 Em vários arquivos há a definição module.exports, esse comando define o que será retornado quando um outro arquivo importá-lo.
 
+Socket.IO
+`yarn add socket.io`
+Pacote utilizado para criar um websocket e assim fazer atualizações e tempo real.
+
 Links:
 - Curso: https://rocketseat.com.br/goweek-4#day-05
 - mLab: https://mlab.com/login/
